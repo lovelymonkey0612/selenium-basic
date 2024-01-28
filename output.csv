@@ -1,0 +1,706 @@
+Player,Salary,Year
+,"$4,250,000",1990
+,"$3,785,000",1990
+,"$3,175,000",1990
+,"$2,900,000",1990
+,"$2,850,000",1990
+,"$2,720,000",1990
+,"$2,640,000",1990
+,"$2,500,000",1990
+,"$2,500,000",1990
+,"$2,406,000",1990
+,"$2,400,000",1990
+,"$2,330,000",1990
+,"$2,300,000",1990
+,"$2,265,000",1990
+,"$2,260,000",1990
+,"$2,250,000",1990
+,"$2,200,000",1990
+,"$2,185,000",1990
+,"$2,150,000",1990
+,"$2,100,000",1990
+,"$2,065,000",1990
+,"$2,060,000",1990
+,"$2,000,000",1990
+,"$2,000,000",1990
+,"$2,000,000",1990
+,"$2,000,000",1990
+,"$2,000,000",1990
+,"$2,000,000",1990
+,"$1,970,000",1990
+,"$1,860,000",1990
+,"$1,800,000",1990
+,"$1,785,000",1990
+,"$1,760,000",1990
+,"$1,750,000",1990
+,"$1,750,000",1990
+,"$1,750,000",1990
+,"$1,710,000",1990
+,"$1,700,000",1990
+,"$1,685,000",1990
+,"$1,660,000",1990
+,"$1,650,000",1990
+,"$1,650,000",1990
+,"$1,600,000",1990
+,"$1,600,000",1990
+,"$1,600,000",1990
+,"$1,600,000",1990
+,"$1,560,000",1990
+,"$1,550,000",1990
+,"$1,550,000",1990
+,"$1,550,000",1990
+,"$1,519,000",1990
+,"$1,519,000",1990
+,"$1,510,000",1990
+,"$1,500,000",1990
+,"$1,500,000",1990
+,"$1,500,000",1990
+,"$1,500,000",1990
+,"$1,500,000",1990
+,"$1,400,000",1990
+,"$1,400,000",1990
+,"$1,400,000",1990
+,"$1,400,000",1990
+,"$1,400,000",1990
+,"$1,365,000",1990
+,"$1,365,000",1990
+,"$1,350,000",1990
+,"$1,330,000",1990
+,"$1,320,000",1990
+,"$1,300,000",1990
+,"$1,275,000",1990
+,"$1,270,000",1990
+,"$1,260,000",1990
+,"$1,250,000",1990
+,"$1,250,000",1990
+,"$1,250,000",1990
+,"$1,235,000",1990
+,"$1,212,000",1990
+,"$1,200,000",1990
+,"$1,200,000",1990
+,"$1,200,000",1990
+,"$1,200,000",1990
+,"$1,180,000",1990
+,"$1,160,000",1990
+,"$1,150,000",1990
+,"$1,115,000",1990
+,"$1,100,000",1990
+,"$1,100,000",1990
+,"$1,100,000",1990
+,"$1,100,000",1990
+,"$1,100,000",1990
+,"$1,085,000",1990
+,"$1,070,000",1990
+,"$1,050,000",1990
+,"$1,050,000",1990
+,"$1,035,000",1990
+,"$1,025,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$1,000,000",1990
+,"$990,000",1990
+,"$985,000",1990
+,"$980,000",1990
+,"$962,000",1990
+,"$950,000",1990
+,"$950,000",1990
+,"$940,000",1990
+,"$935,000",1990
+,"$930,000",1990
+,"$925,000",1990
+,"$915,000",1990
+,"$915,000",1990
+,"$910,000",1990
+,"$905,000",1990
+,"$900,000",1990
+,"$900,000",1990
+,"$900,000",1990
+,"$900,000",1990
+,"$900,000",1990
+,"$895,000",1990
+,"$880,000",1990
+,"$880,000",1990
+,"$875,000",1990
+,"$875,000",1990
+,"$870,000",1990
+,"$850,000",1990
+,"$850,000",1990
+,"$850,000",1990
+,"$850,000",1990
+,"$837,000",1990
+,"$835,000",1990
+,"$830,000",1990
+,"$825,000",1990
+,"$825,000",1990
+,"$805,000",1990
+,"$805,000",1990
+,"$800,000",1990
+,"$800,000",1990
+,"$800,000",1990
+,"$800,000",1990
+,"$800,000",1990
+,"$775,000",1990
+,"$770,000",1990
+,"$765,000",1990
+,"$765,000",1990
+,"$765,000",1990
+,"$760,000",1990
+,"$755,000",1990
+,"$750,000",1990
+,"$750,000",1990
+,"$750,000",1990
+,"$750,000",1990
+,"$730,000",1990
+,"$725,000",1990
+,"$725,000",1990
+,"$725,000",1990
+,"$725,000",1990
+,"$700,000",1990
+,"$700,000",1990
+,"$690,000",1990
+,"$685,000",1990
+,"$675,000",1990
+,"$675,000",1990
+,"$675,000",1990
+,"$675,000",1990
+,"$667,000",1990
+,"$658,000",1990
+,"$654,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$650,000",1990
+,"$630,000",1990
+,"$615,000",1990
+,"$615,000",1990
+,"$610,000",1990
+,"$610,000",1990
+,"$605,000",1990
+,"$605,000",1990
+,"$605,000",1990
+,"$600,000",1990
+,"$600,000",1990
+,"$600,000",1990
+,"$600,000",1990
+,"$600,000",1990
+,"$590,000",1990
+,"$590,000",1990
+,"$575,000",1990
+,"$575,000",1990
+,"$575,000",1990
+,"$565,000",1990
+,"$565,000",1990
+,"$550,000",1990
+,"$550,000",1990
+,"$550,000",1990
+,"$550,000",1990
+,"$550,000",1990
+,"$550,000",1990
+,"$548,000",1990
+,"$547,000",1990
+,"$530,000",1990
+,"$525,000",1990
+,"$525,000",1990
+,"$525,000",1990
+,"$525,000",1990
+,"$520,000",1990
+,"$510,000",1990
+,"$510,000",1990
+,"$510,000",1990
+,"$505,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$500,000",1990
+,"$485,000",1990
+,"$480,000",1990
+,"$475,000",1990
+,"$468,000",1990
+,"$455,000",1990
+,"$450,000",1990
+,"$450,000",1990
+,"$450,000",1990
+,"$450,000",1990
+,"$450,000",1990
+,"$450,000",1990
+,"$437,000",1990
+,"$430,000",1990
+,"$425,000",1990
+,"$425,000",1990
+,"$425,000",1990
+,"$425,000",1990
+,"$410,000",1990
+,"$410,000",1990
+,"$408,000",1990
+,"$405,000",1990
+,"$405,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$400,000",1990
+,"$395,000",1990
+,"$385,000",1990
+,"$375,000",1990
+,"$375,000",1990
+,"$370,000",1990
+,"$365,000",1990
+,"$360,000",1990
+,"$360,000",1990
+,"$360,000",1990
+,"$355,000",1990
+,"$350,000",1990
+,"$350,000",1990
+,"$350,000",1990
+,"$350,000",1990
+,"$347,000",1990
+,"$340,000",1990
+,"$335,000",1990
+,"$335,000",1990
+,"$325,000",1990
+,"$325,000",1990
+,"$325,000",1990
+,"$322,000",1990
+,"$315,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$300,000",1990
+,"$295,000",1990
+,"$290,000",1990
+,"$275,000",1990
+,"$275,000",1990
+,"$275,000",1990
+,"$275,000",1990
+,"$250,000",1990
+,"$250,000",1990
+,"$250,000",1990
+,"$250,000",1990
+,"$230,000",1990
+,"$225,000",1990
+,"$225,000",1990
+,"$225,000",1990
+,"$222,000",1990
+,"$215,000",1990
+,"$210,000",1990
+,"$210,000",1990
+,"$200,000",1990
+,"$200,000",1990
+,"$200,000",1990
+,"$200,000",1990
+,"$185,000",1990
+,"$175,000",1990
+,"$175,000",1990
+,"$155,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$150,000",1990
+,"$130,000",1990
+,"$130,000",1990
+,"$125,000",1990
+,"$125,000",1990
+,"$125,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$120,000",1990
+,"$115,000",1990
+,"$110,000",1990
+,"$100,000",1990
+,"$100,000",1990
+,"$80,000",1990
+,"$75,000",1990
+,"$75,000",1990
+,"$50,000",1990
+,"$50,000",1990
+,"$50,000",1990
+,"$50,000",1990
+,"$30,000",1990
+,"$30,000",1990
+,"$30,000",1990
+PLAYER,,1990
+Patrick Ewing,,1990
+Hot Rod Williams,,1990
+Hakeem Olajuwon,,1990
+Charles Barkley,,1990
+Chris Mullin,,1990
+Isiah Thomas,,1990
+Danny Ferry,,1990
+Michael Jordan,,1990
+Robert Parish,,1990
+Moses Malone,,1990
+Magic Johnson,,1990
+Wayman Tisdale,,1990
+Pervis Ellison,,1990
+David Robinson,,1990
+Karl Malone,,1990
+Ralph Sampson,,1990
+Danny Manning,,1990
+Blair Rasmussen,,1990
+Chuck Person,,1990
+Derrick Coleman,,1990
+Dominique Wilkins,,1990
+Tom Chambers,,1990
+Mark Eaton,,1990
+John Stockton,,1990
+Terry Porter,,1990
+Willie Burton,,1990
+LaSalle Thompson,,1990
+Sam Bowie,,1990
+Sam Perkins,,1990
+Terry Cummings,,1990
+Sean Elliott,,1990
+Mark Jackson,,1990
+Otis Thorpe,,1990
+Kevin Johnson,,1990
+Benoit Benjamin,,1990
+A.C. Green,,1990
+Kevin Duckworth,,1990
+Alton Lister,,1990
+Gary Payton,,1990
+Mahmoud Abdul-Rauf,,1990
+Rolando Blackman,,1990
+Mike Gminski,,1990
+Bernard King,,1990
+Jack Sikma,,1990
+Alec Kessler,,1990
+James Worthy,,1990
+Dennis Scott,,1990
+Buck Williams,,1990
+Glen Rice,,1990
+Jon Koncak,,1990
+Fat Lever,,1990
+Derek Harper,,1990
+Bill Laimbeer,,1990
+Johnny Dawkins,,1990
+Danny Schayes,,1990
+Alex English,,1990
+Kendall Gill,,1990
+Larry Bird,,1990
+Xavier McDaniel,,1990
+Sleepy Floyd,,1990
+Vinnie Johnson,,1990
+Mark Price,,1990
+Kevin McHale,,1990
+Ron Harper,,1990
+Greg Anderson,,1990
+Rik Smits,,1990
+Rick Mahorn,,1990
+Brad Daugherty,,1990
+Manute Bol,,1990
+Brad Lohaus,,1990
+Sarunas Marciulionis,,1990
+Larry Nance,,1990
+Dale Ellis,,1990
+J.R. Reid,,1990
+Roy Hinson,,1990
+Jim Petersen,,1990
+Brian Shaw,,1990
+Armen Gilliam,,1990
+Tony Campbell,,1990
+Johnny Newman,,1990
+Drazen Petrovic,,1990
+Clyde Drexler,,1990
+Detlef Schrempf,,1990
+Randy Breuer,,1990
+Mark Aguirre,,1990
+Wayne Cooper,,1990
+Jeff Hornacek,,1990
+Ricky Pierce,,1990
+Byron Scott,,1990
+Bill Cartwright,,1990
+Terry Catledge,,1990
+Felton Spencer,,1990
+Charles Oakley,,1990
+Ken Norman,,1990
+Joe Dumars,,1990
+Kiki Vandeweghe,,1990
+John Williams,,1990
+Thurl Bailey,,1990
+Hersey Hawkins,,1990
+Eddie Johnson,,1990
+Maurice Cheeks,,1990
+Charles Smith,,1990
+Tyrone Hill,,1990
+Herb Williams,,1990
+Stacey King,,1990
+Horace Grant,,1990
+Kelly Tripucka,,1990
+Joe Wolf,,1990
+Rodney McCray,,1990
+Sam Vincent,,1990
+Derrick McKey,,1990
+Bo Kimble,,1990
+Chris Dudley,,1990
+George McCloud,,1990
+James Edwards,,1990
+Lionel Simmons,,1990
+Craig Ehlo,,1990
+Jeff Malone,,1990
+Dennis Hopson,,1990
+Michael Cage,,1990
+Frank Brickowski,,1990
+Paul Pressey,,1990
+Walter Davis,,1990
+Kurt Rambis,,1990
+Lester Conner,,1990
+Dell Curry,,1990
+Doc Rivers,,1990
+Dennis Rodman,,1990
+James Donaldson,,1990
+Mark West,,1990
+Kenny Walker,,1990
+Alvin Robertson,,1990
+Darrell Griffith,,1990
+Mitch Richmond,,1990
+William Bedford,,1990
+Joe Kleine,,1990
+Sidney Green,,1990
+Trent Tucker,,1990
+Tyrone Corbin,,1990
+Loy Vaught,,1990
+Michael Adams,,1990
+Orlando Woolridge,,1990
+Muggsy Bogues,,1990
+Tom Hammonds,,1990
+Travis Mays,,1990
+Larry Smith,,1990
+Tree Rollins,,1990
+Rumeal Robinson,,1990
+Tim McCormick,,1990
+Vlade Divac,,1990
+Roy Tarpley,,1990
+Scottie Pippen,,1990
+Reggie Theus,,1990
+Mike Sanders,,1990
+Rony Seikaly,,1990
+David Wingate,,1990
+Cliff Levingston,,1990
+Chris Morris,,1990
+Ed Pinckney,,1990
+Randy White,,1990
+Willie Anderson,,1990
+Danny Ainge,,1990
+Nick Anderson,,1990
+Gerald Wilkins,,1990
+Bill Wennington,,1990
+Kenny Smith,,1990
+Fred Roberts,,1990
+Kevin Willis,,1990
+Charles Jones,,1990
+Tim Perry,,1990
+Buck Johnson,,1990
+Rex Chapman,,1990
+Vern Fleming,,1990
+Nate McMillan,,1990
+Reggie Miller,,1990
+Mike Brown,,1990
+Dave Greenwood,,1990
+Duane Causwell,,1990
+Sedale Threatt,,1990
+Jay Humphries,,1990
+Dave Jamerson,,1990
+Alexander Volkov,,1990
+Chucky Brown,,1990
+Pooh Richardson,,1990
+Mychal Thompson,,1990
+Darrell Walker,,1990
+Antoine Carr,,1990
+Ledell Eackles,,1990
+Larry Krystkowiak,,1990
+Jeff Grayer,,1990
+Andrew Lang,,1990
+Olden Polynice,,1990
+Brad Davis,,1990
+Craig Hodges,,1990
+Terry Mills,,1990
+Tod Murphy,,1990
+John Battle,,1990
+Gerald Glass,,1990
+Elden Campbell,,1990
+John Salley,,1990
+Jerrod Mustaf,,1990
+Todd Lichti,,1990
+Bob Hansen,,1990
+Jerome Kersey,,1990
+Ed Nealy,,1990
+Terry Teagle,,1990
+Larry Drew,,1990
+John Bagley,,1990
+Steve Kerr,,1990
+Dee Brown,,1990
+Gary Grant,,1990
+Winston Bennett,,1990
+Derrick Chievous,,1990
+Mookie Blaylock,,1990
+Michael Smith,,1990
+Dwayne Schintzius,,1990
+Bill Hanzlik,,1990
+Spud Webb,,1990
+Sidney Moncrief,,1990
+Les Jepsen,,1990
+Mark Alarie,,1990
+Jayson Williams,,1990
+Dana Barros,,1990
+Sam Mitchell,,1990
+Randy Wittman,,1990
+Rod Higgins,,1990
+Tim Hardaway,,1990
+Jerome Lane,,1990
+Eric Leckner,,1990
+Greg Kite,,1990
+Harvey Grant,,1990
+Negele Knight,,1990
+Brian Oliver,,1990
+Danny Young,,1990
+Otis Smith,,1990
+Jerry Reynolds,,1990
+Winston Garland,,1990
+Scott Hastings,,1990
+Will Perdue,,1990
+Mark Acres,,1990
+Dan Majerle,,1990
+Ron Anderson,,1990
+Quintin Dailey,,1990
+Kevin Edwards,,1990
+BJ Armstrong,,1990
+Jeff Turner,,1990
+Tate George,,1990
+Scott Skiles,,1990
+Mark Bryant,,1990
+Tom Tolbert,,1990
+Rod Strickland,,1990
+Kenny Payne,,1990
+Dave Hoppen,,1990
+Eddie Lee Wilkins,,1990
+Adrian Dantley,,1990
+Billy Thompson,,1990
+Ken Bannister,,1990
+Reggie Lewis,,1990
+Alaa Abdelnaby,,1990
+John Paxson,,1990
+Byron Irvin,,1990
+Kevin Gamble,,1990
+Anthony Cook,,1990
+Lance Blanks,,1990
+Blue Edwards,,1990
+Brian Quinnett,,1990
+Jack Haley,,1990
+Kenny Gattison,,1990
+Joe Barry Carroll,,1990
+Shawn Kemp,,1990
+Kenny Battle,,1990
+John Morton,,1990
+Morlon Wiley,,1990
+Tom Garrick,,1990
+Bob Thornton,,1990
+Jon Sundvold,,1990
+Sherman Douglas,,1990
+Mike Smrek,,1990
+Micheal Williams,,1990
+Randolph Keys,,1990
+Derek Smith,,1990
+Steve Colter,,1990
+Rory Sparrow,,1990
+Scott Meents,,1990
+Dave Corzine,,1990
+Greg Grant,,1990
+Grant Long,,1990
+Greg Dreiling,,1990
+David Wood,,1990
+Scott Brooks,,1990
+Bimbo Coles,,1990
+Greg Foster,,1990
+A.J. English,,1990
+Dave Feitl,,1990
+Adrian Caldwell,,1990
+Cliff Robinson,,1990
+Terry Davis,,1990
+Vernon Maxwell,,1990
+Steve Alford,,1990
+Doug West,,1990
+Walter Palmer,,1990
+Frank Kornet,,1990
+Jud Buechler,,1990
+Stojko Vrankovic,,1990
+Delaney Rudd,,1990
+Jeff Martin,,1990
+Marcus Liberty,,1990
+Michael Ansley,,1990
+Milos Babic,,1990
+Steve Scheffler,,1990
+Gary Leonard,,1990
+Kevin Pritchard,,1990
+Cedric Ceballos,,1990
+Kenny Williams,,1990
+Derrick Gervin,,1990
+Tony Massenburg,,1990
+Sean Higgins,,1990
+Richard Coffey,,1990
+Keith Askins,,1990
+John Long,,1990
+John Shasky,,1990
+Scott Williams,,1990
+Ian Lockhart,,1990
+Alan Ogg,,1990
+Rick Calloway,,1990
+Gerald Henderson,,1990
+Duane Ferrell,,1990
+Haywoode Workman,,1990
+Andy Toolson,,1990
+Rickey Green,,1990
+John Starks,,1990
+Steve Henson,,1990
+Irving Thomas,,1990
+Tony Smith,,1990
+Kennard Winchester,,1990
+Matt Bullard,,1990
+Gerald Paddio,,1990
+Kurk Lee,,1990
+Jim Grandholm,,1990
+Andre Turner,,1990
+Paul Mokeski,,1990
+Darnell Valentine,,1990
+Dave Popson,,1990
+Henry James,,1990
+Scott Haffner,,1990
+Tony Brown,,1990
+Alan Bannister,,1990
+Avery Johnson,,1990
+Mario Elie,,1990
+Anthony Frederick,,1990
+Kelvin Upshaw,,1990
+A.J. Wynder,,1990
